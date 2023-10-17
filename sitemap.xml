@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://texhour.github.io/quarto/index.html</loc>
-    <lastmod>2023-10-16T14:12:51.295Z</lastmod>
+    <lastmod>2023-10-17T14:27:38.923Z</lastmod>
   </url>
   <url>
     <loc>https://texhour.github.io/quarto/about.html</loc>
-    <lastmod>2023-10-16T14:12:51.153Z</lastmod>
+    <lastmod>2023-10-17T14:27:38.562Z</lastmod>
+  </url>
+  <url>
+    <loc>https://texhour.github.io/quarto/tmp/latex-2023-10-17.html</loc>
+    <lastmod>2023-10-17T14:27:38.785Z</lastmod>
   </url>
 </urlset>

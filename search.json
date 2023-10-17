@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nLaTeX"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "tmp/latex-2023-10-17.html",
+    "href": "tmp/latex-2023-10-17.html",
+    "title": "Latex mathematics",
+    "section": "",
+    "text": "1 About\nThis page is made of small numbered pieces. Some, like this one, explain something. Other contain a single example. An example consists of:\n\nWords: Some math, described in words\nLaTeX: The Latex encoding of the math\nRendering: The rendering of the math\n\n\n\n2 Plus\n\nWords: Two plus two equals four.\nLatex: 2 + 2 = 4\nRender: \\[2 + 2 = 4\\]\n\n\n\n3 Times\n\nWords: Two times two equals four.\nLatex: 2 \\times 2 = 4\nRender: \\[2 \\times 2 = 4\\]\n\n\n\n4 Backslash\nWe just used a special key \\, which is called backslash.\nThere are many mathematical symbols. Plus is on most keyboards, but times is not. Instead we often refer to math symbols by name. That makes it easier to type.\nBefore typing the name of a math symbol, we type a backslash. Latex math has lots of backslashes. We will soon show you how to find it on your keyboard.\n\n\n5 Fractions\nFractions have a numerator and a denominator. A fraction is numerator over denominator. The name for a fraction is frac, which is \\frac when we include the backslash.\n\n\n6 One half\n\nWords: Fraction one over two is zero point 5\nLatex: \\frac{1}{2} = 0.5\nRender: \\[\\frac{1}{2} = 0.5\\]\n\n\n\n7 Curly braces\nWe just used two special keys { and }. These are called left curly brace and right curly brace. Altogether two of each, which makes four curly braces. The curly braces, in order of appearance, are {, }, {, }.\n\n\n8 Special keys\n[Warning: Work in progress]\nThe table below gives know the location of some special keys. We give it now for reference. don’t need to learn all of this talbe They are\n\n\nTable 1: Special keys\n\n\nName\nCharacter(s)\nLocation\n\n\n\n\nParentheses\n( and )\nAbove 9 and 0\n\n\nSquare brackets\n[ and ]\nTo the right of p\n\n\nBackslash\n\\\nIt depends\n\n\nCurly braces\n{ and }\nAbove [ and ]\n\n\nCaret\n^\nAbove 6\n\n\nUnderscore\n_\nBelow hyphen -\n\n\nPipe\n|\nIt depends"
   }
 ]
