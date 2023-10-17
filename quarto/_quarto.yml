@@ -8,12 +8,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
+    number-sections: true
+    number-depth: 1
 
 

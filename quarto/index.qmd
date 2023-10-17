@@ -5,3 +5,5 @@ title: "Quarto"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+[LaTeX](/tmp/latex-2023-10-17.qmd)
