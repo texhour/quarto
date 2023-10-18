@@ -2,9 +2,170 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto",
+    "title": "Quarto Toolchain",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nLaTeX"
+    "text": "Quarto is an open source STEM publishing system. It origin is in the R statistics language. Quarto produces documents in multiple formats, include HTML and PDF. It is based on Markdown. Via MathJax it has good math support. It is a strong candidate for producing accessible outputs, particular for blind users. This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Quarto Toolchain",
+    "section": "",
+    "text": "Quarto is an open source STEM publishing system. It origin is in the R statistics language. Quarto produces documents in multiple formats, include HTML and PDF. It is based on Markdown. Via MathJax it has good math support. It is a strong candidate for producing accessible outputs, particular for blind users. This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Quarto Toolchain",
+    "section": "2 Goals",
+    "text": "2 Goals\nThe present intention is to focus on provide some examples of accessible Latex help, and of cheat sheets for blind students taking a math module. In these specialist areas, feedback from users is really important to ensure accessibility and other user needs. This is particularly important at the early stages."
+  },
+  {
+    "objectID": "index.html#guide",
+    "href": "index.html#guide",
+    "title": "Quarto Toolchain",
+    "section": "3 Guide",
+    "text": "3 Guide\nThe first four pages are:\n\nThe first page of an introduction to Latex math.\nWork in progress on special keys and the Keyboard.\nAn exploratory page pre-calculus page on Fractions.\nAn exploratory page on Venn diagrams."
+  },
+  {
+    "objectID": "index.html#feedback",
+    "href": "index.html#feedback",
+    "title": "Quarto Toolchain",
+    "section": "4 Feedback",
+    "text": "4 Feedback\nComments are welcome. Here are three good ways.\n\nSend a message to the BlindMath mailing list.\nRaise on issue on the github project.\nEmail the project owner jfine2358 @ gmail dot com.\n\nThe Blind Math list is a good resource for STEM accessibility (with a focus on math). Do consider joining that list."
+  },
+  {
+    "objectID": "index.html#urls",
+    "href": "index.html#urls",
+    "title": "Quarto Toolchain",
+    "section": "5 URLs",
+    "text": "5 URLs\nTo learn more about Quarto visit https://quarto.org."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html",
+    "href": "tmp/fractions-2023-10-17.html",
+    "title": "Fractions",
+    "section": "",
+    "text": "This page is, from the point of view of teaching and learning, something of an experiment. Its main justification is that some experiments will be useful, when developing ways of learning and teaching that work better for blind students. See also the postscript to this page."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#warning",
+    "href": "tmp/fractions-2023-10-17.html#warning",
+    "title": "Fractions",
+    "section": "",
+    "text": "This page is, from the point of view of teaching and learning, something of an experiment. Its main justification is that some experiments will be useful, when developing ways of learning and teaching that work better for blind students. See also the postscript to this page."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#about",
+    "href": "tmp/fractions-2023-10-17.html#about",
+    "title": "Fractions",
+    "section": "2 About",
+    "text": "2 About\nThis page is for those who are preparing to study calculus. It assumes that you already know how to calculate with fractions whose numerator and denominator are integers. Here the numerator and denominator might be any sort of algebraic object, such as numbers, unknowns, variables and even functions.\nYou might find it helpful to read it twice. The first time, assume all the quantities are integers. So you have an abstract view of something familar. The second time, assume all the quantities are variables. This will help you understand better both the integer and variable cases."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#definition",
+    "href": "tmp/fractions-2023-10-17.html#definition",
+    "title": "Fractions",
+    "section": "3 Definition",
+    "text": "3 Definition\nEach ordered pair \\((a, b)\\) with \\(b \\neq 0\\) represents a fraction. On this page we will always write the fraction associated with \\((a, b)\\) as\n\\[\n  \\frac{a}{b}\n\\]\n\nWords: fraction a over b\nLatex: \\frac{a}{b}"
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#numerator",
+    "href": "tmp/fractions-2023-10-17.html#numerator",
+    "title": "Fractions",
+    "section": "4 Numerator",
+    "text": "4 Numerator\nIn the fraction \\(\\frac{a}{b}\\) the quantity \\(a\\) is called the numerator. The numerator can be any quantity."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#denominator",
+    "href": "tmp/fractions-2023-10-17.html#denominator",
+    "title": "Fractions",
+    "section": "5 Denominator",
+    "text": "5 Denominator\nIn the fraction \\(\\frac{a}{b}\\) the quantity \\(b\\) is called the denominator. The denominator is not allowed to be zero. In symbols\n\\[\n  b \\neq 0\n\\]\n\nWords: b is not equal to zero\nLatex: b \\neq 0"
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#equality-easy",
+    "href": "tmp/fractions-2023-10-17.html#equality-easy",
+    "title": "Fractions",
+    "section": "6 Equality (easy)",
+    "text": "6 Equality (easy)\nSuppose that \\(\\frac{a}{b}\\) is a fraction. Suppose also that \\(m \\neq 0\\). Then it is a rule that\n\\[\n  \\frac{m \\times a}{m \\times b} = \\frac{a}{b}\n\\]\n\nWords: [I don’t know what to put here.]\nLatex: \\frac{m \\times a}{m \\times b}"
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#addition-easy",
+    "href": "tmp/fractions-2023-10-17.html#addition-easy",
+    "title": "Fractions",
+    "section": "7 Addition (easy)",
+    "text": "7 Addition (easy)\nAddition is easy when the two fractions have the same denominator. Suppose that \\(\\frac{a}{b}\\) and \\(\\frac{c}{b}\\) are both fractions. Here the common denominator is \\(b\\). In this case\n\\[\n    \\frac{a}{b} + \\frac{c}{b} = \\frac{a+c}{b}\n\\]\n\nWords: [I don’t know what to put here.]\nLatex: \\frac{a+c}{b}"
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#addition-hard",
+    "href": "tmp/fractions-2023-10-17.html#addition-hard",
+    "title": "Fractions",
+    "section": "8 Addition (hard)",
+    "text": "8 Addition (hard)\nSuppose we have two fraction \\(\\frac{a}{b}\\) and \\(\\frac{c}{d}\\). We do not assume that \\(b\\) and \\(d\\) are equal. In this situation we can use \\(d\\times b\\) as a common denominator, and then use the easy case of addition.\n\\[\n  \\frac{a}{b} = \\frac{d\\times a}{d \\times b}\n\\] and \\[\n  \\frac{c}{d} = \\frac{b\\times c}{b \\times d}\n\\] and finally \\[\n  \\frac{a}{b} + \\frac{c}{d} = \\frac{d \\times a + b \\times c}{d \\times b}\n\\]"
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#equality-hard",
+    "href": "tmp/fractions-2023-10-17.html#equality-hard",
+    "title": "Fractions",
+    "section": "9 Equality (hard)",
+    "text": "9 Equality (hard)\nWhen are two fractions equal? In other words write \\[\n\\frac{a}{b} = \\frac{c}{d}\n\\] as a condition on \\(a, b, c, d\\). First note that as a general rule \\(x - y\\) is a shorthand for \\(x + (-1)\\times y\\).\nTherefore the difference \\[\n  \\frac{a}{b} - \\frac{c}{d} = \\frac{d \\times a - b \\times c}{d \\times b}\n\\] has as numerator \\[\n    (d \\times a - b \\times c)\n\\] and so \\[\n  da - bc = 0\n\\] is precisely the condition we are looking for."
+  },
+  {
+    "objectID": "tmp/fractions-2023-10-17.html#postscript",
+    "href": "tmp/fractions-2023-10-17.html#postscript",
+    "title": "Fractions",
+    "section": "10 Postscript",
+    "text": "10 Postscript\nI’m not sure about this page. What I have in mind is that the student is:\n\nFamiliar with fractions where numerator and denominator are explicit integers. Such fractions are of course also known as rational numbers.\nFamiliar with doing calculations with rational numbers.\nPreparing to study calculus.\n\nI am intending this page to provide:\n\nA review of the rules for fractions.\nThe extension of the rules to more complicated fractions.\nMore awareness that calculation is a consequence of basic properties.\nMore appreciation of the depth of mathematical ideas.\nBetter recall and understanding of the rules for fractions.\n\nI am concerned that:\n\nMy pedagogic judgement is not well informed by contact with students.\nThe student might not share my liking for abstraction.\n\nOn the other hand:\n\nSome blind students might find a more abstract approach less of a cognitive burden.\nThis approach done well might help students with concentration and reasoning ability."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html",
+    "href": "tmp/venn-diagrams-2023-10-17.html",
+    "title": "Venn diagrams",
+    "section": "",
+    "text": "This page, at present, is a placeholder. The whole topic of presenting Venn diagrams in a way that is accessible to the blind is potentially hard. I don’t think figure descriptions, however good, will work.\nThis page sketches, roughly, an alternative presentation."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#about",
+    "href": "tmp/venn-diagrams-2023-10-17.html#about",
+    "title": "Venn diagrams",
+    "section": "",
+    "text": "This page, at present, is a placeholder. The whole topic of presenting Venn diagrams in a way that is accessible to the blind is potentially hard. I don’t think figure descriptions, however good, will work.\nThis page sketches, roughly, an alternative presentation."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#inclusion-exclusion-easy",
+    "href": "tmp/venn-diagrams-2023-10-17.html#inclusion-exclusion-easy",
+    "title": "Venn diagrams",
+    "section": "2 Inclusion-Exclusion (easy)",
+    "text": "2 Inclusion-Exclusion (easy)\nUse \\(\\#X\\) for the number of elements in a set \\(X\\). Then the simplest case is \\[\n\\#(A\\cup B) = \\#A + \\#B - \\#(A\\cap B)\n\\] which I prefer to write as \\[\n\\#(A\\cup B) + \\#(A\\cap B) = \\#A + \\#B\n\\]"
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#truth-table",
+    "href": "tmp/venn-diagrams-2023-10-17.html#truth-table",
+    "title": "Venn diagrams",
+    "section": "3 Truth table",
+    "text": "3 Truth table\nSuppose we have a finite universe \\(U\\) with \\(n=\\#U\\). Suppose also that we have subsets \\(A_1, A_2, \\ldots A_n\\) of \\(U\\). The associated truth table records for each \\(u\\in U\\) and each \\(i\\) in \\(\\{1, 2, \\ldots, n\\}\\) whether or not \\(u_i \\in A_j\\). We think of this as a table with \\(n\\) columns and \\(m\\) rows."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#alternative-easy",
+    "href": "tmp/venn-diagrams-2023-10-17.html#alternative-easy",
+    "title": "Venn diagrams",
+    "section": "4 Alternative (easy)",
+    "text": "4 Alternative (easy)\nA sighted student, by looking at the Venn diagram, can understand and prove the easy case of inclusion-exclusion. The blind student can perhaps understand and prove this result by looking at the columns of the truth table.\nThe first key idea is that there only \\(4=2^2\\) possible values for each column. The second key idea is that for each these possible columns the result holds. The third key idea is that hence the overall result holds."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#alternative-hard",
+    "href": "tmp/venn-diagrams-2023-10-17.html#alternative-hard",
+    "title": "Venn diagrams",
+    "section": "5 Alternative (hard)",
+    "text": "5 Alternative (hard)\nEven for the ordinarily sighted Venn diagrams fail for \\(m\\) (the number of \\(A_j\\)) more than about five. In high dimensions we are all blind. In some cases even the sighted student will benefit from the blind approach."
+  },
+  {
+    "objectID": "tmp/venn-diagrams-2023-10-17.html#sign-errors",
+    "href": "tmp/venn-diagrams-2023-10-17.html#sign-errors",
+    "title": "Venn diagrams",
+    "section": "6 Sign errors",
+    "text": "6 Sign errors\nI prefer to write the statement of the inclusion-exclusion formula to not have in it any minus signs. I’d like to say more about this, at some time and place."
   },
   {
     "objectID": "about.html",
@@ -14,10 +175,87 @@
     "text": "About this site"
   },
   {
-    "objectID": "tmp/latex-2023-10-17.html",
-    "href": "tmp/latex-2023-10-17.html",
-    "title": "Latex mathematics",
+    "objectID": "tmp/latex-math-2023-10-17.html",
+    "href": "tmp/latex-math-2023-10-17.html",
+    "title": "Latex math",
     "section": "",
-    "text": "1 About\nThis page is made of small numbered pieces. Some, like this one, explain something. Other contain a single example. An example consists of:\n\nWords: Some math, described in words\nLaTeX: The Latex encoding of the math\nRendering: The rendering of the math\n\n\n\n2 Plus\n\nWords: Two plus two equals four.\nLatex: 2 + 2 = 4\nRender: \\[2 + 2 = 4\\]\n\n\n\n3 Times\n\nWords: Two times two equals four.\nLatex: 2 \\times 2 = 4\nRender: \\[2 \\times 2 = 4\\]\n\n\n\n4 Backslash\nWe just used a special key \\, which is called backslash.\nThere are many mathematical symbols. Plus is on most keyboards, but times is not. Instead we often refer to math symbols by name. That makes it easier to type.\nBefore typing the name of a math symbol, we type a backslash. Latex math has lots of backslashes. We will soon show you how to find it on your keyboard.\n\n\n5 Fractions\nFractions have a numerator and a denominator. A fraction is numerator over denominator. The name for a fraction is frac, which is \\frac when we include the backslash.\n\n\n6 One half\n\nWords: Fraction one over two is zero point 5\nLatex: \\frac{1}{2} = 0.5\nRender: \\[\\frac{1}{2} = 0.5\\]\n\n\n\n7 Curly braces\nWe just used two special keys { and }. These are called left curly brace and right curly brace. Altogether two of each, which makes four curly braces. The curly braces, in order of appearance, are {, }, {, }.\n\n\n8 Special keys\n[Warning: Work in progress]\nThe table below gives know the location of some special keys. We give it now for reference. don’t need to learn all of this talbe They are\n\n\nTable 1: Special keys\n\n\nName\nCharacter(s)\nLocation\n\n\n\n\nParentheses\n( and )\nAbove 9 and 0\n\n\nSquare brackets\n[ and ]\nTo the right of p\n\n\nBackslash\n\\\nIt depends\n\n\nCurly braces\n{ and }\nAbove [ and ]\n\n\nCaret\n^\nAbove 6\n\n\nUnderscore\n_\nBelow hyphen -\n\n\nPipe\n|\nIt depends"
+    "text": "This page is made of small numbered pieces. Some, like this one, explain something. Other contain a single example. An example consists of:\n\nWords: Some math, described in words\nLaTeX: The Latex encoding of the math\nRendering: The rendering of the math"
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#about",
+    "href": "tmp/latex-math-2023-10-17.html#about",
+    "title": "Latex math",
+    "section": "",
+    "text": "This page is made of small numbered pieces. Some, like this one, explain something. Other contain a single example. An example consists of:\n\nWords: Some math, described in words\nLaTeX: The Latex encoding of the math\nRendering: The rendering of the math"
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#plus",
+    "href": "tmp/latex-math-2023-10-17.html#plus",
+    "title": "Latex math",
+    "section": "2 Plus",
+    "text": "2 Plus\n\nWords: Two plus two equals four.\nLatex: 2 + 2 = 4\nRender: \\[2 + 2 = 4\\]"
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#times",
+    "href": "tmp/latex-math-2023-10-17.html#times",
+    "title": "Latex math",
+    "section": "3 Times",
+    "text": "3 Times\n\nWords: Two times two equals four.\nLatex: 2 \\times 2 = 4\nRender: \\[2 \\times 2 = 4\\]"
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#backslash",
+    "href": "tmp/latex-math-2023-10-17.html#backslash",
+    "title": "Latex math",
+    "section": "4 Backslash",
+    "text": "4 Backslash\nWe just used a special key \\, which is called backslash.\nThere are many mathematical symbols. Plus is on most keyboards, but times is not. Instead we often refer to math symbols by name. That makes it easier to type.\nBefore typing the name of a math symbol, we type a backslash. Latex math has lots of backslashes. We will soon show you how to find it on your keyboard."
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#fractions",
+    "href": "tmp/latex-math-2023-10-17.html#fractions",
+    "title": "Latex math",
+    "section": "5 Fractions",
+    "text": "5 Fractions\nFractions have a numerator and a denominator. A fraction is numerator over denominator. The name for a fraction is frac, which is \\frac when we include the backslash."
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#one-half",
+    "href": "tmp/latex-math-2023-10-17.html#one-half",
+    "title": "Latex math",
+    "section": "6 One half",
+    "text": "6 One half\n\nWords: Fraction one over two is zero point 5\nLatex: \\frac{1}{2} = 0.5\nRender: \\[\\frac{1}{2} = 0.5\\]"
+  },
+  {
+    "objectID": "tmp/latex-math-2023-10-17.html#curly-braces",
+    "href": "tmp/latex-math-2023-10-17.html#curly-braces",
+    "title": "Latex math",
+    "section": "7 Curly braces",
+    "text": "7 Curly braces\nWe just used two special keys { and }. These are called left curly brace and right curly brace. Altogether two of each, which makes four curly braces. The curly braces, in order of appearance, are {, }, {, }."
+  },
+  {
+    "objectID": "tmp/keyboard-2023-10-17.html",
+    "href": "tmp/keyboard-2023-10-17.html",
+    "title": "Keyboard",
+    "section": "",
+    "text": "This is work in progress. It seems that we we need:\n\nIdentify your keyboard\nFind special keys on your keyboard\nDescription of special keys\nPractice in typing special keys."
+  },
+  {
+    "objectID": "tmp/keyboard-2023-10-17.html#about",
+    "href": "tmp/keyboard-2023-10-17.html#about",
+    "title": "Keyboard",
+    "section": "",
+    "text": "This is work in progress. It seems that we we need:\n\nIdentify your keyboard\nFind special keys on your keyboard\nDescription of special keys\nPractice in typing special keys."
+  },
+  {
+    "objectID": "tmp/keyboard-2023-10-17.html#warning",
+    "href": "tmp/keyboard-2023-10-17.html#warning",
+    "title": "Keyboard",
+    "section": "2 Warning",
+    "text": "2 Warning\nDo not rely on any promises made on this page. Things may change."
+  },
+  {
+    "objectID": "tmp/keyboard-2023-10-17.html#special-keys",
+    "href": "tmp/keyboard-2023-10-17.html#special-keys",
+    "title": "Keyboard",
+    "section": "3 Special keys",
+    "text": "3 Special keys\nThe table below gives know the location of some special keys. We give it now for reference. They is no need to learn it all now. We’ll describe spacial keys as we introduce them.\n\n\nTable 1: Special keys\n\n\nName\nCharacter(s)\nLocation\n\n\n\n\nParentheses\n( and )\nAbove 9 and 0\n\n\nSquare brackets\n[ and ]\nTo the right of p\n\n\nBackslash\n\\\nIt depends\n\n\nCurly braces\n{ and }\nAbove [ and ]\n\n\nCaret\n^\nAbove 6\n\n\nUnderscore\n_\nBelow hyphen -\n\n\nPipe\n|\nIt depends"
   }
 ]
