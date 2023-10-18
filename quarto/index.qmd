@@ -22,7 +22,7 @@ particularly important at the early stages.
 
 The first four pages are:
 
-* The first page of an introduction to [Latex math](/tmp/latex-2023-10-17.qmd).
+* The first page of an introduction to [Latex math](/tmp/latex-math-2023-10-17.qmd).
 * Work in progress on special keys and the [Keyboard](/tmp/keyboard-2023-10-17.qmd).
 * An exploratory page pre-calculus page on [Fractions](/tmp/fractions-2023-10-17.qmd).
 * An exploratory page on [Venn diagrams](/tmp/venn-diagrams-2023-10-17.qmd).
