@@ -1,9 +1,43 @@
 ---
-title: "Quarto"
+title: "Quarto Toolchain"
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Quarto is an open source STEM publishing system. It origin is in the R
+statistics language. Quarto produces documents in multiple formats,
+include HTML and PDF. It is based on Markdown. Via MathJax it has good
+math support. It is a strong candidate for producing accessible
+outputs, particular for blind users. This is a Quarto website.
 
-[LaTeX](/tmp/latex-2023-10-17.qmd)
+## Goals
+
+The present intention is to focus on provide some examples of
+accessible Latex help, and of cheat sheets for blind students taking a
+math module. In these specialist areas, feedback from users is really
+important to ensure accessibility and other user needs. This is
+particularly important at the early stages.
+
+## Guide
+
+The first four pages are:
+
+* The first page of an introduction to [Latex math](/tmp/latex-2023-10-17.qmd).
+* Work in progress on special keys and the [Keyboard](/tmp/keyboard-2023-10-17.qmd).
+* An exploratory page pre-calculus page on [Fractions](/tmp/fractions-2023-10-17.qmd).
+* An exploratory page on [Venn diagrams](/tmp/venn-diagrams-2023-10-17.qmd).
+
+## Feedback
+
+Comments are welcome. Here are three good ways.
+
+- Send a message to the [BlindMath mailing list](http://nfbnet.org/pipermail/blindmath_nfbnet.org/).
+- Raise on issue on [the github project](https://github.com/texhour/quarto).
+- Email the project owner `jfine2358 @ gmail dot com`.
+
+The Blind Math list is a good resource for STEM accessibility (with a
+focus on math). Do consider joining that list.
+
+## URLs
+
+To learn more about Quarto visit <https://quarto.org>.

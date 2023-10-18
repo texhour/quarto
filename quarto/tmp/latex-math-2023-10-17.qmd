@@ -1,8 +1,8 @@
 ---
-title: "Latex mathematics"
+title: "Latex math"
 ---
 
-# About
+## About
 
 This page is made of small numbered pieces. Some, like this one,
 explain something. Other contain a single example. An example consists
@@ -12,19 +12,19 @@ of:
 - LaTeX: The Latex encoding of the math
 - Rendering: The rendering of the math
 
-# Plus
+## Plus
 
 - Words: Two plus two equals four.
 - Latex: `2 + 2 = 4`
 - Render: $$2 + 2 = 4$$
 
-# Times
+## Times
 
 - Words: Two times two equals four.
 - Latex: `2 \times 2 = 4`
 - Render: $$2 \times 2 = 4$$
 
-# Backslash
+## Backslash
 
 We just used a special key `\`, which is called backslash.
 
@@ -36,45 +36,22 @@ Before typing the name of a math symbol, we type a backslash.  Latex
 math has lots of backslashes. We will soon show you how to find it on
 your keyboard.
 
-# Fractions
+## Fractions
 
 Fractions have a numerator and a denominator. A fraction is numerator
 over denominator. The name for a fraction is `frac`, which is `\frac`
 when we include the backslash.
 
-# One half
+## One half
 
 - Words: Fraction one over two is zero point 5
 - Latex: `\frac{1}{2} = 0.5`
 - Render: $$\frac{1}{2} = 0.5$$
 
 
-# Curly braces
+## Curly braces
 
 We just used two special keys `{` and `}`. These are called left curly
 brace and right curly brace. Altogether two of each, which makes four
 curly braces. The curly braces, in order of appearance, are `{`, `}`,
 `{`, `}`.
-
-
-
-# Special keys
-
-[Warning: Work in progress]
-
-The table below gives know the location of some special keys. We give
-it now for reference.   don't need to learn all of this talbe They are
-
-
-|Name | Character(s) |Location|
-|---|---|---|
-| Parentheses | `(` and  `)` | Above `9` and `0` |
-| Square brackets | `[` and  `]` | To the right of `p` |
-| Backslash | `\` | It depends |
-| Curly braces | `{` and  `}` | Above `[` and `]` |
-| Caret | `^` | Above `6` |
-| Underscore | `_` | Below hyphen `-`|
-| Pipe | `|` | It depends |
-
-
-: Special keys {#tbl-specials}

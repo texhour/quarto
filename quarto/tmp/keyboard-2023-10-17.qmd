@@ -1,0 +1,36 @@
+---
+title: "Keyboard"
+---
+
+## About
+
+This is work in progress. It seems that we we need:
+
+- Identify your keyboard
+- Find special keys on your keyboard
+- Description of special keys
+- Practice in typing special keys.
+
+## Warning
+
+Do not rely on any promises made on this page. Things may change.
+
+## Special keys
+
+The table below gives know the location of some special keys. We give
+it now for reference.  They is no need to learn it all now. We'll
+describe spacial keys as we introduce them.
+
+
+|Name | Character(s) |Location|
+|---|---|---|
+| Parentheses | `(` and  `)` | Above `9` and `0` |
+| Square brackets | `[` and  `]` | To the right of `p` |
+| Backslash | `\` | It depends |
+| Curly braces | `{` and  `}` | Above `[` and `]` |
+| Caret | `^` | Above `6` |
+| Underscore | `_` | Below hyphen `-`|
+| Pipe | `|` | It depends |
+
+
+: Special keys {#tbl-specials}

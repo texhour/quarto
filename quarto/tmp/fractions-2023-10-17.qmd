@@ -1,0 +1,153 @@
+---
+title: "Fractions"
+---
+
+## Warning
+
+This page is, from the point of view of teaching and learning,
+something of an experiment. Its main justification is that some
+experiments will be useful, when developing ways of learning and
+teaching that work better for blind students.  See also the postscript
+to this page.
+
+
+## About
+
+This page is for those who are preparing to study calculus. It assumes
+that you already know how to calculate with fractions whose numerator
+and denominator are integers. Here the numerator and denominator might
+be any sort of algebraic object, such as numbers, unknowns, variables
+and even functions.
+
+You might find it helpful to read it twice. The first time, assume all
+the quantities are integers. So you have an abstract view of something
+familar. The second time, assume all the quantities are variables. This
+will help you understand better both the integer and variable cases.
+
+## Definition
+
+Each ordered pair $(a, b)$ with $b \neq 0$ represents a fraction. On
+this page we will always write the fraction associated with $(a, b)$
+as
+
+$$
+  \frac{a}{b}
+$$
+
+- Words: fraction a over b
+- Latex: `\frac{a}{b}`
+
+## Numerator
+
+In the fraction $\frac{a}{b}$ the quantity $a$ is called the
+*numerator*. The numerator can be any quantity.
+
+## Denominator
+
+In the fraction $\frac{a}{b}$ the quantity $b$ is called the
+*denominator*. The denominator is not allowed to be zero. In symbols
+
+$$
+  b \neq 0
+$$
+
+- Words: b is not equal to zero
+- Latex: `b \neq 0`
+
+## Equality (easy)
+
+Suppose that $\frac{a}{b}$ is a fraction. Suppose also that $m \neq
+0$. Then it is a rule that
+
+$$
+  \frac{m \times a}{m \times b} = \frac{a}{b}
+$$
+
+- Words: [I don't know what to put here.]
+- Latex: `\frac{m \times a}{m \times b}`
+
+## Addition (easy)
+
+Addition is easy when the two fractions have the same denominator.
+Suppose that $\frac{a}{b}$ and $\frac{c}{b}$ are both fractions. Here
+the common denominator is $b$. In this case
+
+$$
+    \frac{a}{b} + \frac{c}{b} = \frac{a+c}{b}
+$$
+
+- Words: [I don't know what to put here.]
+- Latex: `\frac{a+c}{b}`
+
+## Addition (hard)
+
+Suppose we have two fraction $\frac{a}{b}$ and $\frac{c}{d}$. We do
+not assume that $b$ and $d$ are equal. In this situation we can use
+$d\times b$ as a common denominator, and then use the easy case of
+addition.
+
+$$
+  \frac{a}{b} = \frac{d\times a}{d \times b}
+$$
+and
+$$
+  \frac{c}{d} = \frac{b\times c}{b \times d}
+$$
+and finally
+$$
+  \frac{a}{b} + \frac{c}{d} = \frac{d \times a + b \times c}{d \times b}
+$$
+
+## Equality (hard)
+
+When are two fractions equal? In other words write
+$$
+\frac{a}{b} = \frac{c}{d}
+$$
+as a condition on $a, b, c, d$. First note that as a general rule $x -
+y$ is a shorthand for $x + (-1)\times y$.
+
+Therefore the difference
+$$
+  \frac{a}{b} - \frac{c}{d} = \frac{d \times a - b \times c}{d \times b}
+$$
+has as numerator
+$$
+	(d \times a - b \times c)
+$$
+and so
+$$
+  da - bc = 0
+$$
+is precisely the condition we are looking for.
+
+
+## Postscript
+
+I'm not sure about this page. What I have in mind is that the student is:
+
+- Familiar with fractions where numerator and
+  denominator are explicit integers. Such fractions are of course also
+  known as rational numbers.
+- Familiar with doing calculations with rational numbers.
+- Preparing to study calculus.
+
+I am intending this page to provide:
+
+- A review of the rules for fractions.
+- The extension of the rules to more complicated fractions.
+- More awareness that calculation is a consequence of basic properties.
+- More appreciation of the depth of mathematical ideas.
+- Better recall and understanding of the rules for fractions.
+
+I am concerned that:
+
+- My pedagogic judgement is not well informed by contact with students.
+- The student might not share my liking for abstraction.
+
+On the other hand:
+
+- Some blind students might find a more abstract approach less of a
+  cognitive burden.
+- This approach done well might help students with concentration and
+  reasoning ability.

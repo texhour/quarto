@@ -1,0 +1,55 @@
+---
+title: "Venn diagrams"
+---
+
+## About
+
+This page, at present, is a placeholder. The whole topic of presenting
+Venn diagrams in a way that is accessible to the blind is potentially
+hard. I don't think figure descriptions, however good, will work.
+
+This page sketches, roughly, an alternative presentation.
+
+## Inclusion-Exclusion (easy)
+
+Use $\#X$ for the number of elements in a set $X$. Then the simplest case is
+$$
+\#(A\cup B) = \#A + \#B - \#(A\cap B)
+$$
+which I prefer to write as
+$$
+\#(A\cup B) + \#(A\cap B) = \#A + \#B
+$$
+
+## Truth table
+
+Suppose we have a finite universe $U$ with $n=\#U$. Suppose also that
+we have subsets $A_1, A_2, \ldots A_n$ of $U$. The associated truth
+table records for each $u\in U$ and each $i$ in $\{1, 2, \ldots, n\}$
+whether or not $u_i \in A_j$. We think of this as a table with $n$
+columns and $m$ rows.
+
+## Alternative (easy)
+
+A sighted student, by looking at the Venn diagram, can understand and
+prove the easy case of inclusion-exclusion. The blind student can
+perhaps understand and prove this result by looking at the columns of
+the truth table.
+
+The first key idea is that there only $4=2^2$ possible values for each
+column.  The second key idea is that for each these possible columns
+the result holds. The third key idea is that hence the overall result
+holds.
+
+## Alternative (hard)
+
+Even for the ordinarily sighted Venn diagrams fail for $m$ (the number
+of $A_j$) more than about five. In high dimensions we are all
+blind. In some cases even the sighted student will benefit from the
+blind approach.
+
+## Sign errors
+
+I prefer to write the statement of the inclusion-exclusion formula to
+not have in it any minus signs. I'd like to say more about this, at
+some time and place.
