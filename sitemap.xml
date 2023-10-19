@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://texhour.github.io/quarto/index.html</loc>
-    <lastmod>2023-10-18T14:27:15.166Z</lastmod>
+    <lastmod>2023-10-19T17:47:10.047Z</lastmod>
   </url>
   <url>
     <loc>https://texhour.github.io/quarto/tmp/fractions-2023-10-17.html</loc>
-    <lastmod>2023-10-18T14:27:14.822Z</lastmod>
+    <lastmod>2023-10-19T17:47:09.691Z</lastmod>
   </url>
   <url>
-    <loc>https://texhour.github.io/quarto/tmp/venn-diagrams-2023-10-17.html</loc>
-    <lastmod>2023-10-18T14:27:14.425Z</lastmod>
+    <loc>https://texhour.github.io/quarto/tmp/set-theory-2023-10-19.html</loc>
+    <lastmod>2023-10-19T17:47:09.266Z</lastmod>
   </url>
   <url>
     <loc>https://texhour.github.io/quarto/about.html</loc>
-    <lastmod>2023-10-18T14:27:14.247Z</lastmod>
+    <lastmod>2023-10-19T17:47:08.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://texhour.github.io/quarto/tmp/venn-diagrams-2023-10-17.html</loc>
+    <lastmod>2023-10-19T17:47:09.107Z</lastmod>
   </url>
   <url>
     <loc>https://texhour.github.io/quarto/tmp/latex-math-2023-10-17.html</loc>
-    <lastmod>2023-10-18T14:27:14.608Z</lastmod>
+    <lastmod>2023-10-19T17:47:09.456Z</lastmod>
   </url>
   <url>
     <loc>https://texhour.github.io/quarto/tmp/keyboard-2023-10-17.html</loc>
-    <lastmod>2023-10-18T14:27:14.990Z</lastmod>
+    <lastmod>2023-10-19T17:47:09.871Z</lastmod>
   </url>
 </urlset>

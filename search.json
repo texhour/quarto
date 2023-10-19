@@ -119,6 +119,13 @@
     "text": "10 Postscript\nI’m not sure about this page. What I have in mind is that the student is:\n\nFamiliar with fractions where numerator and denominator are explicit integers. Such fractions are of course also known as rational numbers.\nFamiliar with doing calculations with rational numbers.\nPreparing to study calculus.\n\nI am intending this page to provide:\n\nA review of the rules for fractions.\nThe extension of the rules to more complicated fractions.\nMore awareness that calculation is a consequence of basic properties.\nMore appreciation of the depth of mathematical ideas.\nBetter recall and understanding of the rules for fractions.\n\nI am concerned that:\n\nMy pedagogic judgement is not well informed by contact with students.\nThe student might not share my liking for abstraction.\n\nOn the other hand:\n\nSome blind students might find a more abstract approach less of a cognitive burden.\nThis approach done well might help students with concentration and reasoning ability."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "tmp/venn-diagrams-2023-10-17.html",
     "href": "tmp/venn-diagrams-2023-10-17.html",
     "title": "Venn diagrams",
@@ -166,13 +173,6 @@
     "title": "Venn diagrams",
     "section": "6 Sign errors",
     "text": "6 Sign errors\nI prefer to write the statement of the inclusion-exclusion formula to not have in it any minus signs. I’d like to say more about this, at some time and place."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "tmp/latex-math-2023-10-17.html",
