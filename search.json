@@ -25,7 +25,7 @@
     "href": "index.html#guide",
     "title": "Quarto Toolchain",
     "section": "3 Guide",
-    "text": "3 Guide\nThe first four pages are:\n\nThe first page of an introduction to Latex math.\nWork in progress on special keys and the Keyboard.\nAn exploratory page pre-calculus page on Fractions.\nAn exploratory page on Venn diagrams."
+    "text": "3 Guide\nThe first four pages are:\n\nThe first page of an introduction to Latex math.\nWork in progress on special keys and the Keyboard.\nAn exploratory page pre-calculus page on Fractions.\nAn exploratory page on Venn diagrams.\n[NEW] An exploratory page on Set theory."
   },
   {
     "objectID": "index.html#feedback",
@@ -40,6 +40,13 @@
     "title": "Quarto Toolchain",
     "section": "5 URLs",
     "text": "5 URLs\nTo learn more about Quarto visit https://quarto.org."
+  },
+  {
+    "objectID": "index.html#note",
+    "href": "index.html#note",
+    "title": "Quarto Toolchain",
+    "section": "6 Note",
+    "text": "6 Note\nNelson Beebe recommends the book Mathemematical Notation by Edward Scheiner(?). About 80 pages."
   },
   {
     "objectID": "tmp/fractions-2023-10-17.html",
@@ -117,6 +124,62 @@
     "title": "Fractions",
     "section": "10 Postscript",
     "text": "10 Postscript\nI’m not sure about this page. What I have in mind is that the student is:\n\nFamiliar with fractions where numerator and denominator are explicit integers. Such fractions are of course also known as rational numbers.\nFamiliar with doing calculations with rational numbers.\nPreparing to study calculus.\n\nI am intending this page to provide:\n\nA review of the rules for fractions.\nThe extension of the rules to more complicated fractions.\nMore awareness that calculation is a consequence of basic properties.\nMore appreciation of the depth of mathematical ideas.\nBetter recall and understanding of the rules for fractions.\n\nI am concerned that:\n\nMy pedagogic judgement is not well informed by contact with students.\nThe student might not share my liking for abstraction.\n\nOn the other hand:\n\nSome blind students might find a more abstract approach less of a cognitive burden.\nThis approach done well might help students with concentration and reasoning ability."
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#inequalities-numbers",
+    "href": "tmp/set-theory-2023-10-19.html#inequalities-numbers",
+    "title": "Set theory",
+    "section": "2 Inequalities (numbers)",
+    "text": "2 Inequalities (numbers)\nIf \\(a\\) and \\(b\\) are numbers, then exactly one of the following is true:\n\n\\(a &lt; b\\)\n\\(a &gt; b\\)\n\\(a = b\\)\n\nThis is called the law of trichotomy."
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#inequalities-sets",
+    "href": "tmp/set-theory-2023-10-19.html#inequalities-sets",
+    "title": "Set theory",
+    "section": "3 Inequalities (sets)",
+    "text": "3 Inequalities (sets)\nSets do not obey the law of trichotomy. For example, none of the following are true:\n\n\\(\\{1\\} \\subset \\{2\\}\\)\n\\(\\{1\\} \\supset \\{2\\}\\)\n\\(\\{1\\} = \\{2\\}\\)"
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#heres-a-feature",
+    "href": "tmp/set-theory-2023-10-19.html#heres-a-feature",
+    "title": "Set theory",
+    "section": "4 Here’s a feature",
+    "text": "4 Here’s a feature\nSpaces seem not to matter when you are in math mode. But they do seem to matter when in delimiting of math mode. [Most users will not understand this previous sentence.]\n\n\\(\\{1\\}\\subset\\{2\\}\\)\n$ {1} {2}$"
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#union",
+    "href": "tmp/set-theory-2023-10-19.html#union",
+    "title": "Set theory",
+    "section": "5 Union",
+    "text": "5 Union\n[This contains the minimum needed to teach the Latex.]\n\\[\nX = A \\cup B\n\\]\n\nWords: X equals A union B\nLatex: X = A \\cup B"
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#intersection",
+    "href": "tmp/set-theory-2023-10-19.html#intersection",
+    "title": "Set theory",
+    "section": "6 Intersection",
+    "text": "6 Intersection\n[This contains the minimum needed to teach the math.]\nThe intersection of two sets \\(A\\) and \\(B\\) are the objects \\(x\\) that are members of \\(A\\) and a member of \\(B\\). The intersection is written as:\n\\[\nX = A \\cap B\n\\]\n\nExample: \\(\\{1, 3, 5, 7\\} \\cap \\{3, 5, 9\\} = \\{3, 5\\}\\).\nExample: \\(3 \\in A\\) and \\(3 \\in B\\) so \\(3 \\in (A\\cap B)\\)."
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#subset",
+    "href": "tmp/set-theory-2023-10-19.html#subset",
+    "title": "Set theory",
+    "section": "7 Subset",
+    "text": "7 Subset"
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#superset",
+    "href": "tmp/set-theory-2023-10-19.html#superset",
+    "title": "Set theory",
+    "section": "8 Superset",
+    "text": "8 Superset"
+  },
+  {
+    "objectID": "tmp/set-theory-2023-10-19.html#symmetric-difference",
+    "href": "tmp/set-theory-2023-10-19.html#symmetric-difference",
+    "title": "Set theory",
+    "section": "9 Symmetric difference",
+    "text": "9 Symmetric difference"
   },
   {
     "objectID": "about.html",

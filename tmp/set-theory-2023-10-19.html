@@ -60,6 +60,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -122,6 +124,14 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about"><span class="header-section-number">1</span> About</a></li>
+  <li><a href="#inequalities-numbers" id="toc-inequalities-numbers" class="nav-link" data-scroll-target="#inequalities-numbers"><span class="header-section-number">2</span> Inequalities (numbers)</a></li>
+  <li><a href="#inequalities-sets" id="toc-inequalities-sets" class="nav-link" data-scroll-target="#inequalities-sets"><span class="header-section-number">3</span> Inequalities (sets)</a></li>
+  <li><a href="#heres-a-feature" id="toc-heres-a-feature" class="nav-link" data-scroll-target="#heres-a-feature"><span class="header-section-number">4</span> Here’s a feature</a></li>
+  <li><a href="#union" id="toc-union" class="nav-link" data-scroll-target="#union"><span class="header-section-number">5</span> Union</a></li>
+  <li><a href="#intersection" id="toc-intersection" class="nav-link" data-scroll-target="#intersection"><span class="header-section-number">6</span> Intersection</a></li>
+  <li><a href="#subset" id="toc-subset" class="nav-link" data-scroll-target="#subset"><span class="header-section-number">7</span> Subset</a></li>
+  <li><a href="#superset" id="toc-superset" class="nav-link" data-scroll-target="#superset"><span class="header-section-number">8</span> Superset</a></li>
+  <li><a href="#symmetric-difference" id="toc-symmetric-difference" class="nav-link" data-scroll-target="#symmetric-difference"><span class="header-section-number">9</span> Symmetric difference</a></li>
   </ul>
 </nav>
     </div>
@@ -147,6 +157,65 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="about" class="level2" data-number="1">
 <h2 data-number="1" class="anchored" data-anchor-id="about"><span class="header-section-number">1</span> About</h2>
+</section>
+<section id="inequalities-numbers" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="inequalities-numbers"><span class="header-section-number">2</span> Inequalities (numbers)</h2>
+<p>If <span class="math inline">\(a\)</span> and <span class="math inline">\(b\)</span> are numbers, then exactly one of the following is true:</p>
+<ul>
+<li><span class="math inline">\(a &lt; b\)</span></li>
+<li><span class="math inline">\(a &gt; b\)</span></li>
+<li><span class="math inline">\(a = b\)</span></li>
+</ul>
+<p>This is called the <strong>law of trichotomy</strong>.</p>
+</section>
+<section id="inequalities-sets" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="inequalities-sets"><span class="header-section-number">3</span> Inequalities (sets)</h2>
+<p>Sets do not obey the law of trichotomy. For example, none of the following are true:</p>
+<ul>
+<li><span class="math inline">\(\{1\} \subset \{2\}\)</span></li>
+<li><span class="math inline">\(\{1\} \supset \{2\}\)</span></li>
+<li><span class="math inline">\(\{1\} = \{2\}\)</span></li>
+</ul>
+</section>
+<section id="heres-a-feature" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="heres-a-feature"><span class="header-section-number">4</span> Here’s a feature</h2>
+<p>Spaces seem not to matter when you are in math mode. But they do seem to matter when in delimiting of math mode. [Most users will not understand this previous sentence.]</p>
+<ul>
+<li><span class="math inline">\(\{1\}\subset\{2\}\)</span></li>
+<li>$ {1} {2}$</li>
+</ul>
+</section>
+<section id="union" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="union"><span class="header-section-number">5</span> Union</h2>
+<p>[This contains the minimum needed to teach the Latex.]</p>
+<p><span class="math display">\[
+X = A \cup B
+\]</span></p>
+<ul>
+<li>Words: X equals A union B</li>
+<li>Latex: <code>X = A \cup B</code></li>
+</ul>
+</section>
+<section id="intersection" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="intersection"><span class="header-section-number">6</span> Intersection</h2>
+<p>[This contains the minimum needed to teach the math.]</p>
+<p>The intersection of two sets <span class="math inline">\(A\)</span> and <span class="math inline">\(B\)</span> are the objects <span class="math inline">\(x\)</span> that are members of <span class="math inline">\(A\)</span> and a member of <span class="math inline">\(B\)</span>. The intersection is written as:</p>
+<p><span class="math display">\[
+X = A \cap B
+\]</span></p>
+<ul>
+<li>Example: <span class="math inline">\(\{1, 3, 5, 7\} \cap \{3, 5, 9\} = \{3, 5\}\)</span>.</li>
+<li>Example: <span class="math inline">\(3 \in A\)</span> and <span class="math inline">\(3 \in B\)</span> so <span class="math inline">\(3 \in (A\cap B)\)</span>.</li>
+</ul>
+</section>
+<section id="subset" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="subset"><span class="header-section-number">7</span> Subset</h2>
+</section>
+<section id="superset" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="superset"><span class="header-section-number">8</span> Superset</h2>
+</section>
+<section id="symmetric-difference" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="symmetric-difference"><span class="header-section-number">9</span> Symmetric difference</h2>
 
 
 </section>
