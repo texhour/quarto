@@ -3,3 +3,62 @@ title: "Set theory"
 ---
 
 ## About
+
+## Inequalities (numbers)
+
+If $a$ and $b$ are numbers, then exactly one of the following is true:
+
+- $a < b$
+- $a > b$
+- $a = b$
+
+This is called the **law of trichotomy**.
+
+## Inequalities (sets)
+
+Sets do not obey the law of trichotomy. For example, none of the
+following are true:
+
+- $\{1\} \subset \{2\}$
+- $\{1\} \supset \{2\}$
+- $\{1\} = \{2\}$
+
+## Here's a feature
+
+Spaces seem not to matter when you are in math mode. But they do seem
+to matter when in delimiting of math mode. [Most users will not
+understand this previous sentence.]
+
+- $\{1\}\subset\{2\}$
+- $ \{1\} \subset \{2\}$
+
+## Union
+
+[This contains the minimum needed to teach the Latex.]
+
+$$
+X = A \cup B
+$$
+
+- Words: X equals A union B
+- Latex: `X = A \cup B`
+
+## Intersection
+
+[This contains the minimum needed to teach the math.]
+
+The intersection of two sets $A$ and $B$ are the objects $x$ that are
+members of $A$ and a member of $B$. The intersection is written as:
+
+$$
+X = A \cap B
+$$
+
+- Example: $\{1, 3, 5, 7\} \cap \{3, 5, 9\} = \{3, 5\}$.
+- Example: $3 \in A$ and $3 \in B$ so $3 \in (A\cap B)$.
+
+## Subset
+
+## Superset
+
+## Symmetric difference

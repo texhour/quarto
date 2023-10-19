@@ -26,6 +26,8 @@ The first four pages are:
 * Work in progress on special keys and the [Keyboard](/tmp/keyboard-2023-10-17.qmd).
 * An exploratory page pre-calculus page on [Fractions](/tmp/fractions-2023-10-17.qmd).
 * An exploratory page on [Venn diagrams](/tmp/venn-diagrams-2023-10-17.qmd).
+* [NEW] An exploratory page on [Set theory](/tmp/set-theory-2023-10-19.qmd).
+
 
 ## Feedback
 
@@ -41,3 +43,8 @@ focus on math). Do consider joining that list.
 ## URLs
 
 To learn more about Quarto visit <https://quarto.org>.
+
+## Note
+
+Nelson Beebe recommends the book Mathemematical Notation by Edward
+Scheiner(?). About 80 pages.
