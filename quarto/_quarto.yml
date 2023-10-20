@@ -11,6 +11,7 @@ website:
       - tmp/keyboard-2023-10-17.qmd
       - tmp/fractions-2023-10-17.qmd
       - tmp/venn-diagrams-2023-10-17.qmd
+      - tmp/set-theory-2023-10-19.qmd
       
 format:
   html:
