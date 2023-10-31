@@ -27,7 +27,7 @@ The first four pages are:
 * An exploratory page pre-calculus page on [Fractions](/tmp/fractions-2023-10-17.qmd).
 * An exploratory page on [Venn diagrams](/tmp/venn-diagrams-2023-10-17.qmd).
 * [NEW] An exploratory page on [Set theory](/tmp/set-theory-2023-10-19.qmd).
-
+* [NEW: 2023-10-31] A college algebra [Cheat sheet](/tmp/cheat-sheet-2023-10-31.qmd).
 
 ## Feedback
 

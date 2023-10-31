@@ -1,0 +1,136 @@
+---
+title: "Cheat sheet"
+---
+
+## Copyright
+
+This work is distributed under the CC BY-NC-SA license. It is derived,
+with changes, from a work of William Pierpoint. The changes are
+copyright Jonathan Fine.
+
+
+## About
+
+This is one quarter of a College Algebra Quick Reference (cheat sheet)
+prepared by William Pierpoint (California State University, Channel
+Islands).
+
+The [original document
+(PDF)](https://www.stitz-zeager.com/college_algebra_quick_refer.pdf)
+was prepared using Microsoft Word in 2013, and published as a
+PDF. This derived work has be prepared using <https://quarto.org/> with the
+mathematics rendered by <https://www.mathjax.org/>
+
+For more information about the original visit <https://www.stitz-zeager.com/>.
+
+
+## Creative Commons
+
+The original documents seems to be licensed under [Creative Commons
+BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). That
+license allows sharing and adaption provided
+
+- The original work is properly attributed.
+- It is indicated if changes are made from the original work.
+- It is not suggested that the licensor endorses the derived work.
+- The new work is not used for any commercial purpose.
+- The new work must be distributes under the same license as the original.
+
+
+## Set notation
+
+
+| Interval Notation | Set-Builder Notation |
+|---|---|
+| $(a, b)$ | $\{ x \mid a < x < b \}$ |
+| $[a, b]$ | $\{ x \mid a \leq x \leq b \}$ |
+| $[a, b)$ | $\{ x \mid a \leq x < b \}$ |
+| $(a, b]$ | $\{ x \mid a < x \leq b \}$ |
+| $(a, \infty)$ | $\{ x \mid a < x \}$ |
+| $[a, \infty)$ | $\{ x \mid a \leq x \}$ |
+| $(-\infty, b)$ | $\{ x \mid x < b \}$ |
+| $(-\infty, b]$ | $\{ x \mid x \leq b \}$ |
+
+
+## Set operations
+
+| Operation | Elements | Logic |
+|---|---|---|
+| Union $\cup$ | All | OR |
+| Intersection $\cap$ | Common | AND |
+
+
+## Coordinate Plane Quadrants
+
+| | |
+|---|---|
+| II | I |
+| III | IV |
+
+
+## Distance and Midpoint Formulas
+
+If $P_1 = (x_1, y_1)$ and $P_2 = (x_2, y_2)$ are two points, the
+distance between them is
+$$
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2)}
+$$
+and the midpoint coordinates are
+$$
+M = \left(\frac{x_1 + x_2}{2},\frac{y_1 + y_2}{2}\right)
+$$
+
+- Latex: `d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2)}`
+- Latex:  `M = \left(\frac{x_1 + x_2}{2},\frac{y_1 + y_2}{2}\right)
+`
+
+## Intercepts of an Equation
+
+| | |
+|---|---|
+|$x$-intercepts | Set $y=0$; solve for $x$ |
+|$y$-intercepts | Set $x=0$; solve for $y$ |
+
+## Symmetry of the Graph of an Equation
+
+| Type | Mathematical | Geometrical |
+|---|---|---|
+|$x$-axis| Unchanged when $y$ replaced by $-y$ | Unchanged when reflected about $x$-axis |
+|$y$-axis| Unchanged when $x$ replaced by $-x$ | Unchanged when reflected about $y$-axis |
+|origin| Unchanged when $x$ replaced by $-y$ \& $x$ replaced by $-x$| Unchanged when rotated $180\degree$ about origin|
+
+
+## Function Notation $y=f(x)$
+
+| | |
+|---|---|
+|Domain|Set of all valid $x$|
+|Range|Set of all valid $y$|
+
+## Function Arithmetic
+
+- $(f+g)(x) = f(x) + g(x)$
+- $(f-g)(x) = f(x) - g(x)$
+- $(fg)(x) = f(x)g(x)$
+- $\left(\dfrac{f}{g}\right)(x) = \dfrac{f(x)}{g(x)}$
+
+- Latex:`\left(\dfrac{f}{g}\right)(x) = \dfrac{f(x)}{g(x)}`
+
+## Transformations of Graphs of Functions
+
+[This is long and complicated. It's being skipped for now.]
+
+
+## Properties of Equality
+
+- [In PDF:] If $a=b$ then $a+c=a+c$ and $a-c = a-c$
+- [Should be:] If $a=b$ then $a+c=b+c$ and $a-c = b-c$
+- If $a=b$ and $c\neq0$ then $ac=bc$ and $\dfrac{a}{c}=\dfrac{b}{c}$
+
+## Properties of Inequalities
+
+- If $a<b$ then $a+c < b+c$ and $a-c < b-c$
+- If $a<b$ and $c>0$ then $ac < bc$ and $\dfrac{a}{c} < \dfrac{b}{c}$
+- If $a<b$ and $c<0$ then $ac > bc$ and $\dfrac{a}{c} > \dfrac{b}{c}$
+
+- Latex: `\dfrac{a}{c} < \dfrac{b}{c}`
