@@ -25,7 +25,7 @@
     "href": "index.html#guide",
     "title": "Quarto Toolchain",
     "section": "3 Guide",
-    "text": "3 Guide\nThe first four pages are:\n\nThe first page of an introduction to Latex math.\nWork in progress on special keys and the Keyboard.\nAn exploratory page pre-calculus page on Fractions.\nAn exploratory page on Venn diagrams.\n[NEW] An exploratory page on Set theory."
+    "text": "3 Guide\nThe first four pages are:\n\nThe first page of an introduction to Latex math.\nWork in progress on special keys and the Keyboard.\nAn exploratory page pre-calculus page on Fractions.\nAn exploratory page on Venn diagrams.\n[NEW] An exploratory page on Set theory.\n[NEW: 2023-10-31] A college algebra Cheat sheet."
   },
   {
     "objectID": "index.html#feedback",
@@ -180,6 +180,111 @@
     "title": "Set theory",
     "section": "9 Symmetric difference",
     "text": "9 Symmetric difference"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html",
+    "href": "tmp/cheat-sheet-2023-10-31.html",
+    "title": "Cheat sheet",
+    "section": "",
+    "text": "This work is distributed under the CC BY-NC-SA license. It is derived, with changes, from a work of William Pierpoint. The changes are copyright Jonathan Fine."
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#copyright",
+    "href": "tmp/cheat-sheet-2023-10-31.html#copyright",
+    "title": "Cheat sheet",
+    "section": "",
+    "text": "This work is distributed under the CC BY-NC-SA license. It is derived, with changes, from a work of William Pierpoint. The changes are copyright Jonathan Fine."
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#about",
+    "href": "tmp/cheat-sheet-2023-10-31.html#about",
+    "title": "Cheat sheet",
+    "section": "2 About",
+    "text": "2 About\nThis is one quarter of a College Algebra Quick Reference (cheat sheet) prepared by William Pierpoint (California State University, Channel Islands).\nThe original document (PDF) was prepared using Microsoft Word in 2013, and published as a PDF. This derived work has be prepared using https://quarto.org/ with the mathematics rendered by https://www.mathjax.org/\nFor more information about the original visit https://www.stitz-zeager.com/."
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#creative-commons",
+    "href": "tmp/cheat-sheet-2023-10-31.html#creative-commons",
+    "title": "Cheat sheet",
+    "section": "3 Creative Commons",
+    "text": "3 Creative Commons\nThe original documents seems to be licensed under Creative Commons BY-NC-SA. That license allows sharing and adaption provided\n\nThe original work is properly attributed.\nIt is indicated if changes are made from the original work.\nIt is not suggested that the licensor endorses the derived work.\nThe new work is not used for any commercial purpose.\nThe new work must be distributes under the same license as the original."
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#set-notation",
+    "href": "tmp/cheat-sheet-2023-10-31.html#set-notation",
+    "title": "Cheat sheet",
+    "section": "4 Set notation",
+    "text": "4 Set notation\n\n\n\nInterval Notation\nSet-Builder Notation\n\n\n\n\n\\((a, b)\\)\n\\(\\{ x \\mid a &lt; x &lt; b \\}\\)\n\n\n\\([a, b]\\)\n\\(\\{ x \\mid a \\leq x \\leq b \\}\\)\n\n\n\\([a, b)\\)\n\\(\\{ x \\mid a \\leq x &lt; b \\}\\)\n\n\n\\((a, b]\\)\n\\(\\{ x \\mid a &lt; x \\leq b \\}\\)\n\n\n\\((a, \\infty)\\)\n\\(\\{ x \\mid a &lt; x \\}\\)\n\n\n\\([a, \\infty)\\)\n\\(\\{ x \\mid a \\leq x \\}\\)\n\n\n\\((-\\infty, b)\\)\n\\(\\{ x \\mid x &lt; b \\}\\)\n\n\n\\((-\\infty, b]\\)\n\\(\\{ x \\mid x \\leq b \\}\\)"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#set-operations",
+    "href": "tmp/cheat-sheet-2023-10-31.html#set-operations",
+    "title": "Cheat sheet",
+    "section": "5 Set operations",
+    "text": "5 Set operations\n\n\n\nOperation\nElements\nLogic\n\n\n\n\nUnion \\(\\cup\\)\nAll\nOR\n\n\nIntersection \\(\\cap\\)\nCommon\nAND"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#coordinate-plane-quadrants",
+    "href": "tmp/cheat-sheet-2023-10-31.html#coordinate-plane-quadrants",
+    "title": "Cheat sheet",
+    "section": "6 Coordinate Plane Quadrants",
+    "text": "6 Coordinate Plane Quadrants\n\n\n\nII\nI\n\n\nIII\nIV"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#distance-and-midpoint-formulas",
+    "href": "tmp/cheat-sheet-2023-10-31.html#distance-and-midpoint-formulas",
+    "title": "Cheat sheet",
+    "section": "7 Distance and Midpoint Formulas",
+    "text": "7 Distance and Midpoint Formulas\nIf \\(P_1 = (x_1, y_1)\\) and \\(P_2 = (x_2, y_2)\\) are two points, the distance between them is \\[\nd = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2)}\n\\] and the midpoint coordinates are \\[\nM = \\left(\\frac{x_1 + x_2}{2},\\frac{y_1 + y_2}{2}\\right)\n\\]\n\nLatex: d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2)}\nLatex: M = \\left(\\frac{x_1 + x_2}{2},\\frac{y_1 + y_2}{2}\\right)"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#intercepts-of-an-equation",
+    "href": "tmp/cheat-sheet-2023-10-31.html#intercepts-of-an-equation",
+    "title": "Cheat sheet",
+    "section": "8 Intercepts of an Equation",
+    "text": "8 Intercepts of an Equation\n\n\n\n\\(x\\)-intercepts\nSet \\(y=0\\); solve for \\(x\\)\n\n\n\\(y\\)-intercepts\nSet \\(x=0\\); solve for \\(y\\)"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#symmetry-of-the-graph-of-an-equation",
+    "href": "tmp/cheat-sheet-2023-10-31.html#symmetry-of-the-graph-of-an-equation",
+    "title": "Cheat sheet",
+    "section": "9 Symmetry of the Graph of an Equation",
+    "text": "9 Symmetry of the Graph of an Equation\n\n\n\n\n\n\n\n\nType\nMathematical\nGeometrical\n\n\n\n\n\\(x\\)-axis\nUnchanged when \\(y\\) replaced by \\(-y\\)\nUnchanged when reflected about \\(x\\)-axis\n\n\n\\(y\\)-axis\nUnchanged when \\(x\\) replaced by \\(-x\\)\nUnchanged when reflected about \\(y\\)-axis\n\n\norigin\nUnchanged when \\(x\\) replaced by \\(-y\\) & \\(x\\) replaced by \\(-x\\)\nUnchanged when rotated \\(180\\degree\\) about origin"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#function-notation-yfx",
+    "href": "tmp/cheat-sheet-2023-10-31.html#function-notation-yfx",
+    "title": "Cheat sheet",
+    "section": "10 Function Notation \\(y=f(x)\\)",
+    "text": "10 Function Notation \\(y=f(x)\\)\n\n\n\nDomain\nSet of all valid \\(x\\)\n\n\nRange\nSet of all valid \\(y\\)"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#function-arithmetic",
+    "href": "tmp/cheat-sheet-2023-10-31.html#function-arithmetic",
+    "title": "Cheat sheet",
+    "section": "11 Function Arithmetic",
+    "text": "11 Function Arithmetic\n\n\\((f+g)(x) = f(x) + g(x)\\)\n\\((f-g)(x) = f(x) - g(x)\\)\n\\((fg)(x) = f(x)g(x)\\)\n\\(\\left(\\dfrac{f}{g}\\right)(x) = \\dfrac{f(x)}{g(x)}\\)\nLatex:\\left(\\dfrac{f}{g}\\right)(x) = \\dfrac{f(x)}{g(x)}"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#transformations-of-graphs-of-functions",
+    "href": "tmp/cheat-sheet-2023-10-31.html#transformations-of-graphs-of-functions",
+    "title": "Cheat sheet",
+    "section": "12 Transformations of Graphs of Functions",
+    "text": "12 Transformations of Graphs of Functions\n[This is long and complicated. It’s being skipped for now.]"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#properties-of-equality",
+    "href": "tmp/cheat-sheet-2023-10-31.html#properties-of-equality",
+    "title": "Cheat sheet",
+    "section": "13 Properties of Equality",
+    "text": "13 Properties of Equality\n\n[In PDF:] If \\(a=b\\) then \\(a+c=a+c\\) and \\(a-c = a-c\\)\n[Should be:] If \\(a=b\\) then \\(a+c=b+c\\) and \\(a-c = b-c\\)\nIf \\(a=b\\) and \\(c\\neq0\\) then \\(ac=bc\\) and \\(\\dfrac{a}{c}=\\dfrac{b}{c}\\)"
+  },
+  {
+    "objectID": "tmp/cheat-sheet-2023-10-31.html#properties-of-inequalities",
+    "href": "tmp/cheat-sheet-2023-10-31.html#properties-of-inequalities",
+    "title": "Cheat sheet",
+    "section": "14 Properties of Inequalities",
+    "text": "14 Properties of Inequalities\n\nIf \\(a&lt;b\\) then \\(a+c &lt; b+c\\) and \\(a-c &lt; b-c\\)\nIf \\(a&lt;b\\) and \\(c&gt;0\\) then \\(ac &lt; bc\\) and \\(\\dfrac{a}{c} &lt; \\dfrac{b}{c}\\)\nIf \\(a&lt;b\\) and \\(c&lt;0\\) then \\(ac &gt; bc\\) and \\(\\dfrac{a}{c} &gt; \\dfrac{b}{c}\\)\nLatex: \\dfrac{a}{c} &lt; \\dfrac{b}{c}"
   },
   {
     "objectID": "about.html",
